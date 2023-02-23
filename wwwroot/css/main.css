@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+}
+
+#content ul li {}
+
+body a {
+    text-decoration: none;
+    color: #fff;
+}
+#content ul li a{
+    color: black;
+}
+
+#content tr p button{
+    background-color: rgb(49, 176, 176);
+    border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+    cursor: pointer;
+}
+
