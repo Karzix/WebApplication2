@@ -8,5 +8,10 @@ namespace WebApplication2.Controllers
         {
             return View();
         }
+        [HttpGet]
+        public string Get()
+        {
+            return "Hello world!";
+        }
     }
 }
